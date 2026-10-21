@@ -1,0 +1,7 @@
+## 2. Refleksi
+
+Platform yang paling menarik bagi saya untuk dipelajari adalah platform Web. Menurut saya, platform Web menarik karena aplikasi dapat diakses melalui browser tanpa harus selalu menginstal aplikasi di komputer. Selain itu, saya ingin mempelajari bagaimana HTML, CSS, dan JavaScript digunakan untuk membuat website yang menarik dan interaktif. Pengetahuan tentang pengembangan Web juga dapat menjadi bekal untuk membuat proyek sendiri di masa mendatang.
+
+Tantangan terbesar yang saya hadapi dalam menyiapkan environment adalah memahami langkah-langkah penggunaan GitHub dan Visual Studio Code, terutama saat membuat repository dan melakukan clone ke komputer. Pada awalnya, saya perlu memahami cara membuka folder proyek yang benar agar file tugas dapat dikerjakan di dalam repository. Namun, dengan mengikuti langkah-langkah secara berurutan, saya mulai memahami proses tersebut.
+
+Untuk mengatasi tantangan tersebut, saya akan terus berlatih menggunakan Git dan GitHub, mempelajari fungsi dasar Visual Studio Code, serta membaca dokumentasi resmi apabila mengalami kesulitan. Saya juga akan membiasakan diri memeriksa hasil perintah melalui terminal agar dapat mengetahui apakah proses yang dilakukan sudah berhasil. Dengan latihan dan ketelitian, saya berharap dapat menyiapkan environment secara mandiri dan mengembangkan aplikasi pada platform Web, Desktop, maupun Mobile.
